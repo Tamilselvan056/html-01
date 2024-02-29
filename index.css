@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(255, 255, 255) ;
+}
+html{
+    
+}
+
+.game{
+    align-items: center;
+}
+.para{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+}
+
+.img{
+    height: 100%;
+    width:+750px;
+    background-color: antiquewhite;
+    background-position: center;
+    border-style: solid;
+    
+}
+
+.img1{
+    height: 100%;
+    width:+750px;
+    background-color: antiquewhite;
+    background-position: center;
+    border-style: solid;
+}
+
+.img2{
+    position: relative;
+    right: -90%;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    border-style: solid;
+    
+}
+
+.img3{
+    position: relative;
+    right: -90%;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    border-style: solid;
+}
+.audio{
+    position: relative;
+    width: 200px;
+    height: 20px;
+}
+
